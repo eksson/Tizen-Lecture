@@ -1,7 +1,7 @@
 # Tizen-Lecture
 
 * Typo : 1점
-  * URL 저장
+  * https://github.com/eksson/Tizen-Lecture/commit/2df5d29f1763ec3511d94893a635934e50b5da7c
 * Coding Style : 2점
   * URL 저장
 * Gear-racing-car 빌드 : 5점
